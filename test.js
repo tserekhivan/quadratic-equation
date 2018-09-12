@@ -1002,4 +1002,5 @@ describe('Solve quadratic equation', () => {
     const solutions = solveEquation('-99 * x^2 - 731003031 * x - 1209142706447412');
     assert.deepEqual(solutions, [-4882236, -2501633]);
   });
+  
 });
